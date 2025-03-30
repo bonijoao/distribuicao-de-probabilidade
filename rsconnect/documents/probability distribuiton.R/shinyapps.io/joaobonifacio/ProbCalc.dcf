@@ -1,0 +1,13 @@
+name: ProbCalc
+title: ProbCalc
+username: joaobonifacio
+account: joaobonifacio
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14013498
+bundleId: 9982782
+url: https://joaobonifacio.shinyapps.io/ProbCalc/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: formulas.R|probability distribuiton.py|probability_distribution.R|README.md|requirements.txt|translations.R
